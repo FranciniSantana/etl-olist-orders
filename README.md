@@ -15,6 +15,7 @@ Em desenvolvimento.
 etl-olist-orders/
 ├── config/
 ├── data/              # dados locais temporários (não versionados)
+├── docs/  
 ├── images/
 ├── notebook/
 ├── scripts/
